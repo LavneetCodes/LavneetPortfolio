@@ -444,7 +444,7 @@ section .title::after{
 /* styling certificate section*/
 
 .certificate .title::after{
-    content: "my certifications";
+    content: "certifications";
 }
 .certificate .certificate-content {
     display: flex;
@@ -854,6 +854,34 @@ section .title::after{
     }
 
 }
+
+@media (max-width: 300px){
+    .home .home-content .text-2{
+        font-size: 45px;
+        
+    }
+    .home .home-content .text-3{
+        font-size: 22px;
+        
+    }
+    .scroll-up-btn{
+        right: 15px;
+        bottom: 15px;
+        height: 38px;
+        width: 35px;
+        font-size: 23px;
+        line-height: 38px;
+    }
+    .right form .error-box{
+        width: 130px;
+     }
+     .certificate .popup-image img{
+        width: 82%;
+    }
+
+}
+
+
 
 
 
