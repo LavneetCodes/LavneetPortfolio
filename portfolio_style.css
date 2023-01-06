@@ -386,16 +386,16 @@ section .title::after{
     width: 85%;
 }
 .skills .skills-content .right .css::before{
-    width: 70%;
+    width: 75%;
 }
 .skills .skills-content .right .js::before{
-    width: 60%;
+    width: 65%;
 }
 .skills .skills-content .right .java::before{
-    width: 75%;
+    width: 85%;
 }
 .skills .skills-content .right .mysql::before{
-    width: 75%;
+    width: 85%;
 }
 
 /* styling Experience section*/
